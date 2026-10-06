@@ -1,0 +1,164 @@
+{
+  "diseases": [
+    {
+      "crop": "Cotton",
+      "disease_name": "Whitefly Infestation (سفید مکھی)",
+      "type": "Insect Pest",
+      "symptoms": [
+        "white insects", "tiny white flies", "leaf curling", "sooty mold",
+        "sticky leaves", "honeydew on lower leaf surface", "yellowing leaves"
+      ],
+      "severity": "High",
+      "recommended_treatment": "Deploy yellow sticky traps (10-12 per acre). If ETL exceeded (>5 adults/leaf), apply recommended insect growth regulator (IGR).",
+      "safe_chemical": "Diafenthiuron 500 SC or Pyriproxyfen 10.8 EC",
+      "safe_dosage": "200-250 ml per acre in 100 liters of water",
+      "dosage_status": "verified_safe",
+      "safety_precautions": "Spray during early morning or late afternoon. Wear protective masks and gloves. Do not exceed recommended concentrations.",
+      "source": "Agriculture Department Punjab & PlantVillage Pest Index"
+    },
+    {
+      "crop": "Cotton",
+      "disease_name": "Cotton Leaf Curl Virus - CLCuV (کپاس کا پتہ مروڑ وائرس)",
+      "type": "Viral Disease (Whitefly vectored)",
+      "symptoms": [
+        "leaf curling upwards", "thickening of veins", "enation on underside of leaf",
+        "stunted plant growth", "twisted leaf edges"
+      ],
+      "severity": "Critical",
+      "recommended_treatment": "Control whitefly vector promptly. Uproot heavily infected plants. Apply balanced nutrition (Zinc and Boron foliar spray) to boost resistance.",
+      "safe_chemical": "No direct viricide exists. Vector control with Flonicamid 50 WG.",
+      "safe_dosage": "60-80 grams per acre in 100 liters water",
+      "dosage_status": "verified_safe",
+      "safety_precautions": "Never apply random chemicals for viral diseases. Target the whitefly vector only.",
+      "source": "CCRI Multan & Agri Extension Punjab"
+    },
+    {
+      "crop": "Cotton",
+      "disease_name": "Pink Bollworm (گلابی سنڈی)",
+      "type": "Lepidopteran Pest",
+      "symptoms": [
+        "rosetted flowers", "holes in bolls", "damaged lint", "premature boll opening",
+        "caterpillar inside boll"
+      ],
+      "severity": "High",
+      "recommended_treatment": "Install sex pheromone traps (8 traps/acre). Shred crop residue. Apply bio-pesticide or approved systemic spray.",
+      "safe_chemical": "Spinetoram 11.7 SC or Emamectin Benzoate 1.9 EC",
+      "safe_dosage": "80-100 ml per acre in 100-120 liters water",
+      "dosage_status": "verified_safe",
+      "safety_precautions": "Rotate chemical modes of action to prevent resistance. Toxic to aquatic organisms.",
+      "source": "Pest Warning & Quality Control of Pesticides Punjab"
+    },
+    {
+      "crop": "Wheat",
+      "disease_name": "Yellow / Stripe Rust (پیلگی کنگی)",
+      "type": "Fungal Disease (Puccinia striiformis)",
+      "symptoms": [
+        "yellow stripes on leaves", "yellow powdery pustules", "parallel yellow lines",
+        "powder on fingers when touching leaf", "chlorotic leaf stripes"
+      ],
+      "severity": "High",
+      "recommended_treatment": "Apply triazole fungicide immediately upon initial detection before it spreads across field.",
+      "safe_chemical": "Propiconazole 25 EC or Tebuconazole 250 EC",
+      "safe_dosage": "200-250 ml per acre in 100-120 liters water",
+      "dosage_status": "verified_safe",
+      "safety_precautions": "Do not spray within 30 days of harvest. Ensure complete foliage coverage.",
+      "source": "Wheat Research Institute Faisalabad & PlantVillage"
+    },
+    {
+      "crop": "Wheat",
+      "disease_name": "Wheat Aphid (گندم کا سست تیلا)",
+      "type": "Sucking Pest",
+      "symptoms": [
+        "small green or black insects on ears", "aphids on spikes", "sticky wheat ears",
+        "yellowing flag leaf", "reduced grain filling"
+      ],
+      "severity": "Medium",
+      "recommended_treatment": "Conserve natural predators (ladybird beetles). If ETL exceeded (>15 aphids/spike before dough stage), apply safe insecticide.",
+      "safe_chemical": "Imidacloprid 200 SL",
+      "safe_dosage": "50-60 ml per acre in 100 liters water",
+      "dosage_status": "verified_safe",
+      "safety_precautions": "Strictly observe 21-day pre-harvest interval (PHI) before cutting fodder or grain.",
+      "source": "Agri Department Punjab Advisory"
+    },
+    {
+      "crop": "Rice",
+      "disease_name": "Rice Blast (دھان کا جھلساؤ)",
+      "type": "Fungal Disease (Magnaporthe oryzae)",
+      "symptoms": [
+        "spindle shaped spots on leaves", "diamond shaped lesions with grey center",
+        "neck rot", "broken panicles", "drying leaves"
+      ],
+      "severity": "High",
+      "recommended_treatment": "Avoid excessive nitrogen fertilizer. Drain standing water temporarily and apply systemic fungicide.",
+      "safe_chemical": "Tricyclazole 75 WP or Kasugamycin 2%",
+      "safe_dosage": "100-120 grams per acre in 100 liters water",
+      "dosage_status": "verified_safe",
+      "safety_precautions": "Spray at tillering and boot stage. Highly toxic to fish.",
+      "source": "Rice Research Institute Kala Shah Kaku & PlantVillage"
+    },
+    {
+      "crop": "Rice",
+      "disease_name": "Rice Stem Borer (دھان کی تنے کی سنڈی)",
+      "type": "Insect Pest",
+      "symptoms": [
+        "dead hearts in vegetative stage", "white heads in reproductive stage",
+        "empty white panicles", "holes in stem base"
+      ],
+      "severity": "High",
+      "recommended_treatment": "Apply granular insecticide in standing water or light traps during moth emergence.",
+      "safe_chemical": "Cartap Hydrochloride 4G or Chlorantraniliprole 0.4G",
+      "safe_dosage": "7-9 kg granules per acre broadcasted in 2-3 inches standing water",
+      "dosage_status": "verified_safe",
+      "safety_precautions": "Retain water in field for at least 4-5 days after application.",
+      "source": "Agri Extension Punjab"
+    },
+    {
+      "crop": "Maize",
+      "disease_name": "Fall Armyworm (فال آرمی ورم)",
+      "type": "Lepidopteran Pest",
+      "symptoms": [
+        "ragged holes in whorl leaves", "sawdust like frass inside whorl",
+        "damaged tassels", "greenish caterpillar with Y-shaped head mark"
+      ],
+      "severity": "High",
+      "recommended_treatment": "Hand-drop bio-pesticide or neem seed extract into central leaf whorl. If heavy infestation, directed whorl spray.",
+      "safe_chemical": "Emamectin Benzoate 1.9 EC or Chlorantraniliprole 20 SC",
+      "safe_dosage": "75-80 ml per acre directed into leaf whorls in 120 liters water",
+      "dosage_status": "verified_safe",
+      "safety_precautions": "Nozzle must be pointed directly inside whorls. Avoid drift.",
+      "source": "Maize & Millets Research Institute Yousafwala"
+    },
+    {
+      "crop": "Potato",
+      "disease_name": "Late Blight (آلو کا پچھیتا جھلساؤ)",
+      "type": "Oomycete Pathogen (Phytophthora infestans)",
+      "symptoms": [
+        "water soaked dark brown spots", "white mold on leaf undersides during humid weather",
+        "foul rotting smell", "rapid leaf necrosis", "brown tuber rot"
+      ],
+      "severity": "Critical",
+      "recommended_treatment": "Immediately cease irrigation. Apply protective or curative systemic fungicide before rain.",
+      "safe_chemical": "Dimethomorph + Mancozeb 69 WP or Cymoxanil + Mancozeb",
+      "safe_dosage": "250-300 grams per acre in 100 liters water",
+      "dosage_status": "verified_safe",
+      "safety_precautions": "Repeat at 7-10 day intervals if cold humid weather persists. Wear full PPE.",
+      "source": "Potato Research Institute Sahiwal & PlantVillage"
+    },
+    {
+      "crop": "Tomato",
+      "disease_name": "Early Blight & Leaf Curl (ٹماٹر کا جھلساؤ اور پتہ مروڑ)",
+      "type": "Fungal / Viral complex",
+      "symptoms": [
+        "concentric rings target board spots", "lower leaves yellowing",
+        "stunted tomato bush", "curling leaflets"
+      ],
+      "severity": "Medium",
+      "recommended_treatment": "Remove lower infected foliage. Ensure drip irrigation rather than overhead sprinkling.",
+      "safe_chemical": "Mancozeb 80 WP or Difenoconazole 250 EC",
+      "safe_dosage": "200 grams per acre in 100 liters water",
+      "dosage_status": "verified_safe",
+      "safety_precautions": "Wash hands after handling. Do not harvest within 7 days of spray.",
+      "source": "PlantVillage Tomato Disease Index"
+    }
+  ]
+}

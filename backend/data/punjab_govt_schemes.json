@@ -1,0 +1,56 @@
+{
+  "department": "Agriculture Department, Government of the Punjab",
+  "official_portal": "https://www.agripunjab.gov.pk/",
+  "schemes": [
+    {
+      "id": "kisan_card",
+      "scheme_name": "CM Punjab Kisan Card Initiative (وزیر اعلیٰ کسان کارڈ)",
+      "category": "credit_and_inputs",
+      "target_province": "Punjab",
+      "benefit": "Interest-free production loan of up to PKR 150,000 (PKR 30,000 per acre up to 5 acres) disbursed via Bank of Punjab (BOP) Kisan Card for purchasing certified seed, fertilizer, and pesticides from registered dealers.",
+      "eligibility": "Smallholder farmers cultivating up to 12.5 acres with verified land ownership records in Land Record Authority (PLRA), mobile SIM registered on CNIC, and no previous bank defaults.",
+      "how_to_apply": "Send CNIC number to 8070 via SMS or visit nearest Agriculture Extension office / Bank of Punjab branch.",
+      "source_url": "https://www.agripunjab.gov.pk/"
+    },
+    {
+      "id": "fertilizer_subsidy",
+      "scheme_name": "Subsidized Fertilizer & DAP Voucher Program (کھاد سبسڈی پروگرام)",
+      "category": "fertilizer",
+      "target_province": "Punjab",
+      "benefit": "Direct cash subsidy of PKR 1,000 to 1,500 per bag on Phosphate (DAP) and Potash (SOP/MOP) fertilizers redeemed through scratch-card vouchers inside authorized bags.",
+      "eligibility": "Farmers registered on the Punjab Kisan Portal with valid CNIC and biometric verification at retail points.",
+      "how_to_apply": "Scratch the voucher code found inside the fertilizer bag and SMS the code along with CNIC to 8070.",
+      "source_url": "https://www.agripunjab.gov.pk/"
+    },
+    {
+      "id": "green_tractor",
+      "scheme_name": "Chief Minister Green Tractor Scheme (گرین ٹریکٹر سکیم)",
+      "category": "machinery",
+      "target_province": "Punjab",
+      "benefit": "Government subsidy of PKR 1,000,000 to PKR 1,500,000 per tractor on 50HP to 85HP locally manufactured tractors (Millat, Al-Ghazi).",
+      "eligibility": "Farmers owning 1 to 50 acres of agricultural land in Punjab selected via transparent computerized balloting.",
+      "how_to_apply": "Apply online at gts.punjab.gov.pk or through Punjab Agriculture Extension field formations.",
+      "source_url": "https://agripunjab.gov.pk/"
+    },
+    {
+      "id": "solar_tubewell",
+      "scheme_name": "Solarization of Agricultural Tubewells (زرعی ٹیوب ویلوں کی سولرائزیشن)",
+      "category": "irrigation_and_energy",
+      "target_province": "Punjab",
+      "benefit": "75% government subsidy on converting existing diesel or electric tubewells to solar PV power systems (farmer contributes 25%).",
+      "eligibility": "Farmers having functional tubewells with water table within permissible depth and up to 25 acres landholding.",
+      "how_to_apply": "Submit application to the Directorate General Agriculture (Water Management) Punjab.",
+      "source_url": "https://agripunjab.gov.pk/"
+    },
+    {
+      "id": "crop_insurance",
+      "scheme_name": "Crop Loan Insurance Scheme - CLIS / Takaful (فصل بیمہ پروگرام)",
+      "category": "risk_management",
+      "target_province": "Punjab",
+      "benefit": "100% premium subsidy paid by government for small farmers taking institutional agricultural loans to cover losses from excessive rain, floods, pests, or drought for wheat, cotton, rice, and sugarcane.",
+      "eligibility": "All borrowing small farmers with landholding up to 12.5 acres.",
+      "how_to_apply": "Automatically activated when obtaining an agricultural production loan through ZTBL, BOP, or commercial banks.",
+      "source_url": "https://www.agripunjab.gov.pk/"
+    }
+  ]
+}

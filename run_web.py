@@ -1,0 +1,6 @@
+import uvicorn
+from backend.api import app
+
+if __name__ == "__main__":
+    print("🌾 Starting Kisan Dost Web Dashboard on http://127.0.0.1:8000...")
+    uvicorn.run("backend.api:app", host="127.0.0.1", port=8000, reload=False)

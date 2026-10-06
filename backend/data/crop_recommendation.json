@@ -1,0 +1,205 @@
+{
+  "crops": [
+    {
+      "name": "Wheat",
+      "urdu_name": "گندم (Gandum)",
+      "season": "Rabi",
+      "planting_months": ["November", "December"],
+      "harvest_months": ["April", "May"],
+      "suitable_soils": ["Loam", "Clay Loam", "Sandy Loam"],
+      "water_requirement": "Medium",
+      "rainfall_mm": [350, 500],
+      "temp_c_range": [10.0, 25.0],
+      "soil_ph_range": [6.0, 8.2],
+      "npk_ratio": {"N": 50, "P": 35, "K": 20},
+      "expected_yield_maunds_per_acre": {"min": 35, "max": 50, "avg": 42},
+      "yield_unit": "maunds (40 kg)",
+      "suitable_districts": [
+        "Faisalabad", "Multan", "Bahawalpur", "Sargodha", "Khanewal",
+        "Sahiwal", "Rahim Yar Khan", "Gujranwala", "Kasur", "Okara",
+        "Jhang", "Vehari", "Muzaffargarh", "Layyah", "Sheikhupura"
+      ],
+      "notes": "Pakistan's primary food staple. High yield in fertile loam with 4-5 irrigations."
+    },
+    {
+      "name": "Cotton",
+      "urdu_name": "کپاس / پھٹی (Kapas / Phutti)",
+      "season": "Kharif",
+      "planting_months": ["April", "May", "June"],
+      "harvest_months": ["September", "October", "November"],
+      "suitable_soils": ["Loam", "Sandy Loam", "Deep Clay Loam"],
+      "water_requirement": "Medium",
+      "rainfall_mm": [500, 800],
+      "temp_c_range": [25.0, 42.0],
+      "soil_ph_range": [6.5, 8.5],
+      "npk_ratio": {"N": 60, "P": 30, "K": 25},
+      "expected_yield_maunds_per_acre": {"min": 20, "max": 35, "avg": 26},
+      "yield_unit": "maunds (40 kg)",
+      "suitable_districts": [
+        "Multan", "Bahawalpur", "Rahim Yar Khan", "Vehari", "Khanewal",
+        "Lodhran", "Bahawalnagar", "Muzaffargarh", "Sahiwal"
+      ],
+      "notes": "Major cash crop in Southern Punjab. Requires vigilance against Whitefly and Pink Bollworm."
+    },
+    {
+      "name": "Rice (Basmati)",
+      "urdu_name": "چاول باسمتی (Chawal Basmati)",
+      "season": "Kharif",
+      "planting_months": ["June", "July"],
+      "harvest_months": ["October", "November"],
+      "suitable_soils": ["Clay", "Clay Loam"],
+      "water_requirement": "High",
+      "rainfall_mm": [800, 1500],
+      "temp_c_range": [22.0, 35.0],
+      "soil_ph_range": [5.5, 7.5],
+      "npk_ratio": {"N": 55, "P": 35, "K": 25},
+      "expected_yield_maunds_per_acre": {"min": 32, "max": 48, "avg": 40},
+      "yield_unit": "maunds (40 kg)",
+      "suitable_districts": [
+        "Gujranwala", "Sialkot", "Sheikhupura", "Hafizabad", "Nankana Sahib",
+        "Kasur", "Mandi Bahauddin", "Gujrat", "Narowal"
+      ],
+      "notes": "Kalar tract aromatic basmati. Requires heavy clay soil capable of standing standing water."
+    },
+    {
+      "name": "Rice (IRRI / Coarse)",
+      "urdu_name": "چاول اری / موٹا (Chawal IRRI)",
+      "season": "Kharif",
+      "planting_months": ["May", "June"],
+      "harvest_months": ["September", "October"],
+      "suitable_soils": ["Clay", "Clay Loam", "Loam"],
+      "water_requirement": "High",
+      "rainfall_mm": [700, 1200],
+      "temp_c_range": [24.0, 38.0],
+      "soil_ph_range": [5.5, 8.0],
+      "npk_ratio": {"N": 60, "P": 30, "K": 20},
+      "expected_yield_maunds_per_acre": {"min": 50, "max": 75, "avg": 60},
+      "yield_unit": "maunds (40 kg)",
+      "suitable_districts": [
+        "Hafizabad", "Gujranwala", "Okara", "Pakpattan", "Jhang",
+        "Muzaffargarh", "Bahawalnagar"
+      ],
+      "notes": "High yielding coarse rice. Shorter duration than super basmati."
+    },
+    {
+      "name": "Maize (Spring / Autumn)",
+      "urdu_name": "مکئی (Makai)",
+      "season": "Kharif",
+      "planting_months": ["February", "March", "July", "August"],
+      "harvest_months": ["May", "June", "October", "November"],
+      "suitable_soils": ["Loam", "Sandy Loam", "Well-drained Silt Loam"],
+      "water_requirement": "Medium",
+      "rainfall_mm": [500, 750],
+      "temp_c_range": [18.0, 35.0],
+      "soil_ph_range": [6.0, 7.5],
+      "npk_ratio": {"N": 70, "P": 40, "K": 30},
+      "expected_yield_maunds_per_acre": {"min": 70, "max": 110, "avg": 85},
+      "yield_unit": "maunds (40 kg)",
+      "suitable_districts": [
+        "Sahiwal", "Okara", "Pakpattan", "Faisalabad", "Kasur",
+        "Khanewal", "Vehari", "Chiniot"
+      ],
+      "notes": "Hybrid maize produces bumper yields in Sahiwal-Okara belt with high commercial feed demand."
+    },
+    {
+      "name": "Gram (Chickpea / Chana)",
+      "urdu_name": "چنا (Chana)",
+      "season": "Rabi",
+      "planting_months": ["October", "November"],
+      "harvest_months": ["March", "April"],
+      "suitable_soils": ["Sandy", "Sandy Loam", "Light Loam"],
+      "water_requirement": "Low",
+      "rainfall_mm": [200, 400],
+      "temp_c_range": [10.0, 26.0],
+      "soil_ph_range": [6.0, 8.0],
+      "npk_ratio": {"N": 15, "P": 25, "K": 10},
+      "expected_yield_maunds_per_acre": {"min": 15, "max": 25, "avg": 18},
+      "yield_unit": "maunds (40 kg)",
+      "suitable_districts": [
+        "Bhakkar", "Layyah", "Khushab", "Mianwali", "Jhang",
+        "Bahawalpur", "Attock", "Chakwal"
+      ],
+      "notes": "Ideal low-water drought-tolerant legume. Fixes nitrogen in sandy Thal and Barani soils."
+    },
+    {
+      "name": "Mustard / Raya (Sarson)",
+      "urdu_name": "سرسوں / رایا (Sarson / Raya)",
+      "season": "Rabi",
+      "planting_months": ["September", "October", "November"],
+      "harvest_months": ["February", "March"],
+      "suitable_soils": ["Sandy Loam", "Loam"],
+      "water_requirement": "Low",
+      "rainfall_mm": [250, 450],
+      "temp_c_range": [10.0, 24.0],
+      "soil_ph_range": [6.0, 8.0],
+      "npk_ratio": {"N": 35, "P": 25, "K": 15},
+      "expected_yield_maunds_per_acre": {"min": 18, "max": 28, "avg": 22},
+      "yield_unit": "maunds (40 kg)",
+      "suitable_districts": [
+        "Faisalabad", "Sargodha", "Jhang", "Chakwal", "Rawalpindi",
+        "Bahawalpur", "Bhakkar", "Attock"
+      ],
+      "notes": "Low water oilseed crop. Good intercrop with sugarcane and wheat border."
+    },
+    {
+      "name": "Sugarcane",
+      "urdu_name": "کماد / گنا (Kamad / Ganna)",
+      "season": "Kharif",
+      "planting_months": ["February", "March", "September"],
+      "harvest_months": ["November", "December", "January", "February"],
+      "suitable_soils": ["Deep Loam", "Clay Loam"],
+      "water_requirement": "High",
+      "rainfall_mm": [1000, 1800],
+      "temp_c_range": [20.0, 40.0],
+      "soil_ph_range": [6.0, 7.8],
+      "npk_ratio": {"N": 80, "P": 45, "K": 40},
+      "expected_yield_maunds_per_acre": {"min": 600, "max": 1000, "avg": 750},
+      "yield_unit": "maunds (40 kg)",
+      "suitable_districts": [
+        "Faisalabad", "Sargodha", "Kasur", "Chiniot", "Jhang",
+        "Rahim Yar Khan", "Muzaffargarh", "Mandi Bahauddin", "Toba Tek Singh"
+      ],
+      "notes": "Annual high water requirement crop. High gross revenue near sugar mills."
+    },
+    {
+      "name": "Potato",
+      "urdu_name": "آلو (Aloo)",
+      "season": "Rabi",
+      "planting_months": ["September", "October"],
+      "harvest_months": ["January", "February"],
+      "suitable_soils": ["Sandy Loam", "Silt Loam", "Friable Loam"],
+      "water_requirement": "Medium",
+      "rainfall_mm": [400, 600],
+      "temp_c_range": [12.0, 24.0],
+      "soil_ph_range": [5.2, 7.0],
+      "npk_ratio": {"N": 75, "P": 50, "K": 50},
+      "expected_yield_maunds_per_acre": {"min": 200, "max": 320, "avg": 250},
+      "yield_unit": "maunds (40 kg)",
+      "suitable_districts": [
+        "Okara", "Sahiwal", "Pakpattan", "Kasur", "Chiniot",
+        "Faisalabad", "Sialkot", "Gujranwala"
+      ],
+      "notes": "High-value commercial tuber. Requires loose, well-drained soil and cold nights for tuberization."
+    },
+    {
+      "name": "Mung Bean (Moong)",
+      "urdu_name": "مونگ (Moong)",
+      "season": "Kharif",
+      "planting_months": ["May", "June"],
+      "harvest_months": ["August", "September"],
+      "suitable_soils": ["Loam", "Sandy Loam"],
+      "water_requirement": "Low",
+      "rainfall_mm": [300, 500],
+      "temp_c_range": [25.0, 38.0],
+      "soil_ph_range": [6.2, 7.5],
+      "npk_ratio": {"N": 15, "P": 25, "K": 10},
+      "expected_yield_maunds_per_acre": {"min": 10, "max": 18, "avg": 13},
+      "yield_unit": "maunds (40 kg)",
+      "suitable_districts": [
+        "Bhakkar", "Layyah", "Mianwali", "Muzaffargarh", "Bahawalpur",
+        "Rawalpindi"
+      ],
+      "notes": "Short duration 65-75 days pulse. Excellent summer catch crop with minimal water."
+    }
+  ]
+}

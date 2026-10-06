@@ -1,0 +1,143 @@
+{
+  "source": "Pakistan Bureau of Statistics (PBS) & Agriculture Department Punjab (Directorate of Agriculture Economics)",
+  "year": "2024-2025",
+  "currency": "PKR",
+  "crops": {
+    "wheat": {
+      "crop_name": "Wheat",
+      "urdu_name": "گندم",
+      "yield_unit": "maund (40 kg)",
+      "benchmark_yield_per_acre": 40.0,
+      "benchmark_price_per_maund": 3900.0,
+      "typical_costs_per_acre": {
+        "land_preparation_pkr": 9000,
+        "seed_cost_pkr": 6000,
+        "fertilizer_cost_pkr": 21000,
+        "irrigation_cost_pkr": 10000,
+        "weed_pest_control_pkr": 4500,
+        "harvesting_threshing_pkr": 14000,
+        "other_misc_pkr": 3500
+      },
+      "total_cost_per_acre": 68000
+    },
+    "cotton": {
+      "crop_name": "Cotton",
+      "urdu_name": "کپاس / پھٹی",
+      "yield_unit": "maund (40 kg)",
+      "benchmark_yield_per_acre": 25.0,
+      "benchmark_price_per_maund": 7500.0,
+      "typical_costs_per_acre": {
+        "land_preparation_pkr": 11000,
+        "seed_cost_pkr": 5500,
+        "fertilizer_cost_pkr": 26000,
+        "irrigation_cost_pkr": 14000,
+        "weed_pest_control_pkr": 22000,
+        "harvesting_threshing_pkr": 16000,
+        "other_misc_pkr": 5000
+      },
+      "total_cost_per_acre": 99500
+    },
+    "rice_basmati": {
+      "crop_name": "Rice (Basmati)",
+      "urdu_name": "چاول باسمتی",
+      "yield_unit": "maund (40 kg)",
+      "benchmark_yield_per_acre": 38.0,
+      "benchmark_price_per_maund": 4200.0,
+      "typical_costs_per_acre": {
+        "land_preparation_pkr": 12000,
+        "seed_cost_pkr": 4000,
+        "fertilizer_cost_pkr": 24000,
+        "irrigation_cost_pkr": 22000,
+        "weed_pest_control_pkr": 8000,
+        "harvesting_threshing_pkr": 15000,
+        "other_misc_pkr": 4000
+      },
+      "total_cost_per_acre": 89000
+    },
+    "rice_coarse": {
+      "crop_name": "Rice (IRRI / Coarse)",
+      "urdu_name": "چاول موٹا",
+      "yield_unit": "maund (40 kg)",
+      "benchmark_yield_per_acre": 55.0,
+      "benchmark_price_per_maund": 2600.0,
+      "typical_costs_per_acre": {
+        "land_preparation_pkr": 11000,
+        "seed_cost_pkr": 3500,
+        "fertilizer_cost_pkr": 22000,
+        "irrigation_cost_pkr": 19000,
+        "weed_pest_control_pkr": 6500,
+        "harvesting_threshing_pkr": 14000,
+        "other_misc_pkr": 3500
+      },
+      "total_cost_per_acre": 79500
+    },
+    "maize": {
+      "crop_name": "Maize (Hybrid)",
+      "urdu_name": "مکئی",
+      "yield_unit": "maund (40 kg)",
+      "benchmark_yield_per_acre": 85.0,
+      "benchmark_price_per_maund": 2400.0,
+      "typical_costs_per_acre": {
+        "land_preparation_pkr": 10000,
+        "seed_cost_pkr": 14000,
+        "fertilizer_cost_pkr": 32000,
+        "irrigation_cost_pkr": 16000,
+        "weed_pest_control_pkr": 9000,
+        "harvesting_threshing_pkr": 16000,
+        "other_misc_pkr": 4000
+      },
+      "total_cost_per_acre": 101000
+    },
+    "sugarcane": {
+      "crop_name": "Sugarcane",
+      "urdu_name": "کماد / گنا",
+      "yield_unit": "maund (40 kg)",
+      "benchmark_yield_per_acre": 750.0,
+      "benchmark_price_per_maund": 425.0,
+      "typical_costs_per_acre": {
+        "land_preparation_pkr": 16000,
+        "seed_cost_pkr": 28000,
+        "fertilizer_cost_pkr": 42000,
+        "irrigation_cost_pkr": 34000,
+        "weed_pest_control_pkr": 12000,
+        "harvesting_threshing_pkr": 45000,
+        "other_misc_pkr": 8000
+      },
+      "total_cost_per_acre": 185000
+    },
+    "potato": {
+      "crop_name": "Potato",
+      "urdu_name": "آلو",
+      "yield_unit": "maund (40 kg)",
+      "benchmark_yield_per_acre": 250.0,
+      "benchmark_price_per_maund": 1800.0,
+      "typical_costs_per_acre": {
+        "land_preparation_pkr": 15000,
+        "seed_cost_pkr": 65000,
+        "fertilizer_cost_pkr": 40000,
+        "irrigation_cost_pkr": 18000,
+        "weed_pest_control_pkr": 16000,
+        "harvesting_threshing_pkr": 25000,
+        "other_misc_pkr": 7000
+      },
+      "total_cost_per_acre": 186000
+    },
+    "gram": {
+      "crop_name": "Gram (Chickpea)",
+      "urdu_name": "چنا",
+      "yield_unit": "maund (40 kg)",
+      "benchmark_yield_per_acre": 18.0,
+      "benchmark_price_per_maund": 6200.0,
+      "typical_costs_per_acre": {
+        "land_preparation_pkr": 6000,
+        "seed_cost_pkr": 5000,
+        "fertilizer_cost_pkr": 10000,
+        "irrigation_cost_pkr": 4000,
+        "weed_pest_control_pkr": 3500,
+        "harvesting_threshing_pkr": 8000,
+        "other_misc_pkr": 2500
+      },
+      "total_cost_per_acre": 39000
+    }
+  }
+}
